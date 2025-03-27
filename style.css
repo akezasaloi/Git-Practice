@@ -1,0 +1,350 @@
+body {
+    
+    background-color: rgb(238, 245, 243);
+    overflow-x: hidden;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    .fa-google-play{
+        text-decoration: none;
+        border:1px solid #25284d;
+        border-radius: 20px;
+        padding: 4%;
+        background-color: white;
+        color: #25284d;
+        text-transform: capitalize;
+    }
+    .fa-apple{
+        text-decoration: none;
+        border:6px solid #25284d;
+        border-radius: 20px;
+        padding: 2%;
+        background-color: #25284d;
+        color: white;
+        text-transform: capitalize;
+    }
+    .appstore-playstore{
+      display: flex;
+}
+}
+header{
+
+display: flex;
+padding-left: 9%;
+justify-content: space-between;
+padding-right: 100px;
+.dit-logo{
+    padding-top: 5px;
+  
+}
+.login-and-signup{
+
+    padding-top: 25px ;
+    #login{
+        border: 0;
+        background-color: rgb(238, 245, 243);
+        font-size: 150%;
+    }
+    #signup{
+        border-radius:15px;
+        font-size: 150%;
+        background: linear-gradient(to right, #FF00FF, #FA8072);
+        color: white;
+        border:none ;
+    }
+}
+.navigation-bar{
+    text-align: center;
+    }
+    nav{
+        justify-content: center;
+        
+    }
+    nav ul{
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+        margin-left: 50px;
+        margin-top: 40px;
+    }
+    nav ul li {
+        display: inline;
+        margin: 0 5px;
+    }nav ul li {
+        display: inline;
+        margin: 0 5px;
+    }
+    nav ul li a {
+        color: #25284d;
+        text-decoration: none;
+    }
+}
+.improve-the-way-you-charge{
+
+display: flex;
+justify-content: center;
+gap: 20%;
+.roger-westervelt-image{
+    border: 2px solid rgb(238, 245, 243);
+}
+.improve-the-way-you-charge-caption{
+    padding-top: 12%;
+    .appstore-playstore{
+       gap: 2%;
+    }
+}
+h2{
+   font-size: 300%;
+    color:#25284d ;
+    u{
+        color: red;
+    }
+}
+p{
+    color: #25284d;
+}
+}
+.brands-growing-with-dit{
+
+p{
+    text-align: center;
+}
+i{
+    font-size: 120%;
+    text-align: center;
+    padding-left:12%;
+}
+img{
+    padding-top: 2%;
+    padding-left: 8%;
+    width:5%;
+}
+.fa-trello{
+    color: blue;
+}
+.fa-dropbox{
+    color: blue;
+}
+.fa-slack{
+    color: purple;
+}
+}
+.the-product-we-work-with{
+
+h3{
+    text-align: center;
+    color: #25284d;
+    u{
+        color: red;
+    }
+}
+.the-product-we-work-with-content{
+    display: flex;
+    gap:1%;
+    justify-content: center;
+    .easy-interface{
+        border: 1px solid purple;
+        border-radius: 20px;
+        padding:1%;
+        text-align: center;
+        
+    }
+    .fa-star{
+        border: 1px rgb(245, 228, 231) solid;
+        border-radius: 95px;
+        padding: 1%;
+        background-color: rgb(245, 228, 231);
+        color: #25284d;
+    }
+    .fa-leaf{
+        border: 1px rgb(245, 228, 231) solid;
+        border-radius: 95px;
+        padding: 1%;
+        background-color: rgb(245, 228, 231);
+        color: #25284d;
+    }
+    .secured-transfers{
+        text-align: center;
+        border: white solid;
+        background-color: white;
+        box-shadow: white 0 1px 0;
+        padding: 1%;
+    }
+    .support{
+        text-align: center;
+        box-shadow: white 0 1px 0;
+        background-color: white;
+        border:white solid;
+        padding: 1%;  
+    }
+}
+}
+.lets-see-diti-io-in-numbers{
+
+justify-content: center;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+#okay-lets-see-diti-io-in-numbers-content{
+    color: gray;
+}
+#okay-lets-see-diti-io-in-numbers{
+    font-size: 260%;
+}
+.lets-see-diti-io-in-numbers-content{
+   
+    padding-top:12% ;
+    u{
+        color: red;
+    }
+    p{
+        font-size:150% ;
+        
+    }
+}
+.downloads-and-active-users{
+    display: flex;
+    gap: 10%;
+}
+
+}
+.we-are-helping-customer-globally-everytime{   
+
+padding-left: 17%;
+p{
+    text-align: center;
+    font-size: 200%;
+    u{
+        color: red;
+    }
+}
+.mobile-app-interface-with-screenshots{
+    display: flex;
+    gap: 9%;
+    i{
+        font-size: 30px;
+    }
+    p{
+        font-size: 100%;
+    }
+    #know-more-about-the-app{
+        color: white;
+        border: 6px solid #25284d;
+        border-radius: 10px;
+        text-decoration: none;
+        background-color: #25284d;
+    }
+    .fa-mobile-screen-button{
+        color: rgb(243, 89, 115);
+    }
+    p{
+        text-align: justify;
+    }
+}
+.mobile-app-interface{
+    padding-top: 12%;
+    
+    p{
+        font-size: 30px;
+        width: 100%;
+        color: #25284d;
+    }
+}
+
+.mobile-app-interface-screenshots{
+    padding-bottom: 2%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    img{
+      transform: rotate(5deg);
+    }
+}
+}
+.words-from-our-clients{
+
+justify-content: center;
+display:flex;
+gap: 1%;
+padding-bottom: 10%;
+.edwin-zohir{
+    border: 2px solid purple;
+    border-radius: 20px;
+    padding: 1%;
+    width:23%;
+}
+.jecson-mokbul{
+    padding: 1%;
+    width:23%;
+    i{
+        color: rgb(224, 193, 13);
+    }
+}
+.edwin-zohir-picture{
+    display: flex;
+    justify-content: space-between;
+    img{
+    border-radius: 25px;
+    width: 10%;
+    height: 1%;
+    }
+}
+.jecson-mokbul-picture{
+    display: flex;
+    justify-content: space-between;
+    img{
+        border-radius:50%;
+        width: 10%;
+        height: 10%;
+    }
+}
+}
+.download-diti-io-mobile-app{
+
+.download-diti-io-mobile-app-content{
+    padding-top: 12%;
+    width: 20%;
+    #download-diti-io-mobile-app{
+        font-size: 200%;
+    }
+}
+justify-content: center;
+display: flex;
+gap:10%;
+flex-direction: row;
+padding-bottom: 5%;
+p{
+    color:#25284d;
+}
+.appstore-playstore{
+    display:flex;
+    gap: 5%;
+    width:100%;
+ }
+}
+footer{
+
+.dit-io-brands-icons{
+    display: flex;
+    gap: 20%;
+}
+.our-products-top-features-company-resources{
+    
+    display: flex;
+    background-color: #25284d;
+    color:white;
+    justify-content: space-evenly;
+}
+.copyright{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 3.5) {
+    body{
+font-size: 16px
+    }
+
+}

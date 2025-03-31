@@ -183,13 +183,15 @@ h3{
 
 justify-content: center;
 display: flex;
-flex-direction: row;
-flex-wrap: wrap;
 #okay-lets-see-diti-io-in-numbers-content{
     color: gray;
 }
 #okay-lets-see-diti-io-in-numbers{
     font-size: 260%;
+}
+.lets-see-diti-io-in-numbers-pictures{
+    padding-top: 100px;
+    
 }
 .lets-see-diti-io-in-numbers-content{
    
@@ -344,7 +346,183 @@ footer{
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 3.5) {
     body{
-font-size: 16px
+font-size:8px;
+line-height: 1.5;
     }
+    header{
+        max-width: 360px;
+        margin: 0 auto;
+        display: flex;
+    }
+    .appstore-playstore{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .brands-growing-with-dit{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .copyright{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .dit-io-brands-icons{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .dit-logo{
+        max-width: 360px;
+        margin: 0 auto;
+        flex: 1;
+    }
+    .download-diti-io-mobile-app{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .download-diti-io-mobile-app-content{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .downloads-and-active-users{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .easy-interface{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .edwin-zohir{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .edwin-zohir-picture{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-apple{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-dropbox{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-google-play{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-leaf{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-mobile-screen-button{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-slack{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-star{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .fa-trello{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .improve-the-way-you-charge{
+        display: flex;
+        gap: 30px;
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .improve-the-way-you-charge-caption{
+        max-width: 360px;
+        margin:0 auto;
+        flex: 1;
+    }
+    
+    .jecson-mokbul{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .jecson-mokbul-picture{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .lets-see-diti-io-in-numbers{
+        max-width: 360px;
+        display: flex;
+        margin:0 auto;
+    }
+    .lets-see-diti-io-in-numbers-content{
+        max-width: 360px;
+        margin:0 auto;
+    }
+    .lets-see-diti-io-in-numbers-pictures{
+        max-width: 50%;
+        height:auto;
+        flex: 1;
+    }
+    .login-and-signup{
 
+        max-width: 360px;
+        margin: 0 auto;
+        display: flex;
+        flex: 1;
+    }
+    .mobile-app-interface{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .mobile-app-interface-screenshots{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .mobile-app-interface-with-screenshots{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .navigation-bar{
+        max-width: 360px;
+        margin: 0 auto;
+        flex: 1;
+    }
+    .our-products-top-features-company-resources{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .roger-westervelt-image{
+        /* max-width: 352px; */
+        /* margin: 0 auto; */
+        max-width: 360px;
+        height:auto;
+        flex: 1;
+        
+    }
+    .secured-transfers{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .support{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .the-product-we-work-with{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .the-product-we-work-with-content{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .we-are-helping-customer-globally-everytime{
+        max-width: 360px;
+        margin: 0 auto;
+    }
+    .words-from-our-clients{
+        max-width: 360px;
+        margin: 0 auto;
+    }
 }

@@ -1,0 +1,28 @@
+// let lesson = "Javascript";
+// console.log(lesson.substring(2,6));
+// console.log(lesson.slice(-5,-1));
+// console.log(lesson.replaceAll("a","e"));
+// console.log(lesson.split(" "));
+// const splitLesson= lesson.split("");
+// console.log(splitLesson);
+// console.log(splitLesson.join(""));
+// console.log((lesson +" ").repeat(2));
+// let school = "AkiraChix";
+// console.log(`I am learning ${lesson} in ${school} `);
+// let word1 = "Hello";
+// let word2 = "Javascript";
+// console.log(word1.concat(" ",word2));
+let str = "extravaganza";
+console.log(str.slice(8));
+const food = "The quick fox jumped over the lazy dog";
+console.log(food.slice(4,0,"eat"));
+// let food1 = food.slice(0,3);
+// let food2 = food.slice(4,);
+// console.log(food1 +" " + "eat" + " "+ food2);
+const story = "The quick brown fox jumped over the lazy dog";
+// console.log(story.count("the"));
+// console.log(story.count("brown"));
+let str1 = "The pupils are reading in library";
+console.log(str1.includes("are"));
+let word1 = "Wonderful";
+console.log (word1.to) 
